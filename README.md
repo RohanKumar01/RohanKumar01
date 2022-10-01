@@ -6,8 +6,8 @@ I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU
 
 
 ## 🎓 Currently learning 
-  * Data Structures and Algorithms <img height=16 width=16 src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  * Web Development  <img height=16 width=16 src="https://img.icons8.com/color/48/000000/html-5.png"/><img height=16 width=16 src="https://img.icons8.com/color/48/000000/css3.png"/>
+  * Data Structures and Algorithms <img height=18 width=18 src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  * Web Development  <img height=18 width=18 src="https://img.icons8.com/color/48/000000/html-5.png"/><img height=16 width=16 src="https://img.icons8.com/color/48/000000/css3.png"/>
   
 ## 📲 Connect with me on social media 
 <p align="left">
