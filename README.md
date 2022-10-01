@@ -1,4 +1,4 @@
-<h2> Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rohan </h2>
+<h2> Hey, I'm Rohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU),New Delhi. I am a electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop learning new things, practicing Leetcode and Codechef or playing pc games haha.
 
 <br/>
