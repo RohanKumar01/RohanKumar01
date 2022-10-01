@@ -1,5 +1,5 @@
 <h2> Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rohan </h2>
-I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU),New Delhi. I am a electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, playing pc games haha.
+I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU),New Delhi. I am a electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop learning new things, practicing Leetcode and Codechef or playing pc games haha.
 
 <br/>
 
@@ -7,6 +7,7 @@ I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU
 
 ## 🎓 Currently learning 
   * Data Structures and Algorithms <img height=16 width=16 src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  * Web Development  <img height=16 width=16 src="https://img.icons8.com/color/48/000000/html-5.png"/><img height=16 width=16 src="https://img.icons8.com/color/48/000000/css3.png"/>
   
 ## 📲 Connect with me on social media 
 <p align="left">
