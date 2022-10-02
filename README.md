@@ -11,7 +11,7 @@ I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU
   
 ## 📲 Connect with me on social media 
 <p align="left">
- <a target="_blank"href="https://www.linkedin.com/in/rohan-kumar-a0b898194/" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+<a target="_blank"href="https://www.linkedin.com/in/rohan-kumar-a0b898194/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://github.com/RohanKumar01"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://www.instagram.com/kx.rohan/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a href="mailto:rohankumar25601@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
