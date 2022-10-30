@@ -25,6 +25,12 @@ I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU
  <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
+<img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
