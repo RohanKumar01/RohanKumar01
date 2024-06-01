@@ -1,5 +1,5 @@
 <h2> Hey, I'm Rohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-I am a final year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU),New Delhi. I am a Electronics and Communication undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding.
+I'm a Full Stack Web Deveoper based in New Delhi. I strive to improve my skills with every passing day. I love to connect with new people and admire everyone having passion for coding.
 
 <br/>
 
