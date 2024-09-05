@@ -40,9 +40,6 @@ I'm a Full Stack Web Deveoper based in New Delhi. I strive to improve my skills 
 <a href="https://github.com/RohanKumar01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKumar01&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/RohanKumar01">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanKumar01&show_icons=true&theme=dark" alt="Rohan's github stats"/>
-</a>
 
 <br/>
 
